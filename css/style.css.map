@@ -1,1 +1,0 @@
-{"version":3,"sources":["less/style.less"],"names":[],"mappings":"AACA;EACE,aAAa,uBAAb","sourcesContent":["@import \"parameters.less\";\nbody{\n  font-family: 'Open Sans', sans-serif;\n}"]}
